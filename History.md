@@ -1,4 +1,46 @@
 
+1.2.0 / 2014-08-27
+==================
+
+ * deps: upgrade proto and tester
+ * .gitignore: ignore coverage/
+ * tests: fix typos
+ * amplitude: enable on mobile channel
+ * .ensure(): change validation signature
+ * helpscout: update api key
+ * woopra: move to new proto
+ * webhooks: move to new proto
+ * vero: move to new proto
+ * usercycle: move to new proto
+ * trakio: move to new proto
+ * stacklead: move to new proto
+ * preact: move to new proto
+ * outbound: move to new proto
+ * mixpanel: move to new proto
+ * mailchimp: move to new proto
+ * lytics: move to new proto
+ * librato: remove userAgent
+ * librato: move to new proto
+ * klaviyo: move to new proto
+ * kissmetrics: move to new proto
+ * keenio: move to new proto
+ * iterable: move to new proto
+ * ironio: move to new proto
+ * intercom: move to new proto
+ * hubspot: move to new proto
+ * helpscout: move to new proto
+ * heap: move to new proto
+ * ga: move to new proto and remove ._pageview()
+ * Gainsight: move to new proto
+ * frontleaf: move to new proto
+ * drip: move to new proto
+ * customerio: move to new proto
+ * commandiq: move to new proto
+ * churnbee: move to new proto
+ * calq: move to new proto
+ * amplitude: move to new proto
+ * deps: depend on integration refactor
+
 1.1.51 / 2014-08-27
 ===================
 
