@@ -1,4 +1,10 @@
 
+1.1.51 / 2014-08-27
+===================
+
+  * Merge pull request #198 from segmentio/fix/uncaught-webhook
+  * adding try/catch
+
 1.1.50 / 2014-08-22
 ==================
 
