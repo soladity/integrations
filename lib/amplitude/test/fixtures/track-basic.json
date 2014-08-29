@@ -7,15 +7,26 @@
     "properties": {
       "revenue": 19.99,
       "property": true
+    },
+    "context": {
+      "traits": {
+        "address": {
+          "country": "some-country"
+        }
+      }
     }
   },
   "output": {
+    "country": "some-country",
     "user_id": "user-id",
     "revenue": 19.99,
     "time": 1388534400000,
     "event_type": "my-event",
     "user_properties": {
-      "id": "user-id"
+      "id": "user-id",
+      "address": {
+        "country": "some-country"
+      }
     },
     "event_properties": {
       "property": true
