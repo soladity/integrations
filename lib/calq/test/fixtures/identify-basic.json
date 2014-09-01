@@ -3,28 +3,28 @@
     "type": "identify",
     "userId": "user-id",
     "traits": {
-      "avatar": "avatar.jpg",
+      "avatar": "https://some.url/avatar.jpg",
       "country": "some-country",
       "name": "John Doe",
       "gender": "male",
       "email": "jd@example.com",
       "phone": "55555",
       "city": "some-city",
-      "age": "age"
+      "age": 3e3
     }
   },
   "output": {
     "actor": "user-id",
     "write_key": "0e116d3930b329831f146716c3667dfe",
     "properties": {
-      "$image_url": "avatar.jpg",
+      "$image_url": "https://some.url/avatar.jpg",
       "$country": "some-country",
       "$full_name": "John Doe",
       "$gender": "male",
       "$email": "jd@example.com",
       "$phone": "55555",
       "$city": "some-city",
-      "$age": "age",
+      "$age": 3e3,
       "id": "user-id"
     }
   }
