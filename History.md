@@ -1,4 +1,10 @@
 
+1.2.2 / 2014-09-02
+==================
+
+ * librato: fallback to (context || options).source
+ * errors: add error() tests to all integrations
+
 1.2.1 / 2014-08-29
 ==================
 
