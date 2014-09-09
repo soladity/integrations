@@ -23,7 +23,7 @@
     "lru-cache": "~2.3.0",
     "merge-util": "^0.1.0",
     "ms": "~0.6.1",
-    "obj-case": "0.0.1",
+    "obj-case": "~0.1.0",
     "reject": "0.0.1",
     "segmentio-facade": "1.4.x",
     "segmentio-integration": "2.0.x",
