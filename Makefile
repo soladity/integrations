@@ -8,7 +8,7 @@ ifndef NODE_ENV
 include node_modules/make-lint/index.mk
 endif
 
-test:
+test: lint
 	@./node_modules/.bin/mocha $(TESTS) \
 		--timeout 20s \
 		--require should \
