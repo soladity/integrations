@@ -4,7 +4,7 @@
     "userId": "user-id",
     "traits": {
       "avatar": "https://some.url/avatar.jpg",
-      "country": "some-country",
+      "country": "US",
       "name": "John Doe",
       "gender": "male",
       "email": "jd@example.com",
@@ -18,7 +18,7 @@
     "write_key": "0e116d3930b329831f146716c3667dfe",
     "properties": {
       "$image_url": "https://some.url/avatar.jpg",
-      "$country": "some-country",
+      "$country": "US",
       "$full_name": "John Doe",
       "$gender": "male",
       "$email": "jd@example.com",
