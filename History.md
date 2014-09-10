@@ -1,4 +1,11 @@
 
+1.2.7 / 2014-09-10
+==================
+
+ * deps: upgrade proto to 2.1
+ * intercom: use appId
+ * intercom: lock .identify()
+
 1.2.6 / 2014-09-10
 ==================
 
