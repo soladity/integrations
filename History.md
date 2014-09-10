@@ -1,4 +1,10 @@
 
+1.2.6 / 2014-09-10
+==================
+
+  * outbound: fixed duplicate traits; added fixtures
+  * tests: depend on lint on test target and remove unused vars
+
 1.2.5 / 2014-09-09
 ==================
 
