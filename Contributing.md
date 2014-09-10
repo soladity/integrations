@@ -1,7 +1,7 @@
 
 # Contributing
 
-We're huge fans of open-source, and absolutely we love getting good contributions to **analytics.js**! These docs will tell you everything you need to know about how to add your own integration to the library with a pull request, so we can merge it in for everyone else to use.
+We're huge fans of open-source, and absolutely we love getting good contributions to **segmentio/integrations**! These docs will tell you everything you need to know about how to add your own integration to the library with a pull request, so we can merge it in for everyone else to use.
 
 ## Getting Setup
 
@@ -40,6 +40,25 @@ Note that if your integration is bundled in analytics.js you should omit the `cl
   channels(['server', 'mobile', 'client'])
   ```
 
+### Settings
+
+When a Segment user first turns on the integration, they'll be asked to enter settings specific to the integration.
+
+![](https://i.cloudup.com/btVoto0faC.png)
+
+These are typically fields like:
+
+  - API Keys
+  - whether to track pageviews
+  - mappings from Segment events to integration specific events
+
+
+As a good rule of thumb, any option in the integration should be a separate key in the `settings` object. These will be stored as `this.settings` on the integration itself.
+
+
+_Segment teammates_: `settings` should match up with those found in the [`integration-metadata`](https://github.com/segmentio/integration-metadata) repo.
+
+
 ### Validation
 
 You can ensure the settings has `key`, or the message has `path` easily using `ensure()`.
@@ -55,7 +74,7 @@ will reject the call automatically.
 
 ### Dynamic validation.
 
-You can dymanically decide to reject a message by providinc a function to `.ensure()`.
+You can dymanically decide to reject a message by providing a function to `.ensure()`.
 
 ```js
 /**
@@ -231,8 +250,12 @@ $ GREP=MyIntegration make test
 
 ### Checklist
 
+  - When making a fix, first write a breaking test for it
   - Make sure your tests are complete and passing
   - Make sure you follow the style of the rest of our integrations
+  - Run `make lint` and make sure that it doesn't complain
+  - Make sure new intgration tests have fixtures
+  - Send demo account credentials to integrations@segment.io (teammates: put them in Meldium)
 
 ### That's it!
 
