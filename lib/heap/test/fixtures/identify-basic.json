@@ -3,11 +3,11 @@
     "apiKey": "1535634150"
   },
   "input": {
-    "type": "track",
+    "type": "identify",
     "userId": "user-id",
-    "event": "my-event",
-    "properties": {
+    "traits": {
       "email": "jd@example.com",
+      "property": "value",
       "object": {
         "reject":"this"
       },
@@ -17,9 +17,10 @@
   "output": {
     "app_id": "1535634150",
     "identity": "jd@example.com",
-    "event": "my-event",
     "properties": {
-      "email": "jd@example.com"
+      "email": "jd@example.com",
+      "id": "user-id",
+      "property": "value"
     }
   }
 }
