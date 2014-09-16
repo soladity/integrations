@@ -1,4 +1,13 @@
 
+1.2.8 / 2014-09-16
+==================
+
+ * heap - add support for identify
+ * make test: fix --grep
+ * Merge pull request #206 from segmentio/contrib
+ * readme updates
+ * docs
+
 1.2.7 / 2014-09-10
 ==================
 
