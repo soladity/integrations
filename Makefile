@@ -13,7 +13,7 @@ test: lint
 		--timeout 20s \
 		--require should \
 		--reporter $(REPORTER) \
-		--grep $(GREP) \
+		--grep "$(GREP)" \
 		--bail
 
 test-cov:
