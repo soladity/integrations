@@ -8,7 +8,7 @@ ifndef NODE_ENV
 include node_modules/make-lint/index.mk
 endif
 
-test: lint
+test: lint test-style
 	@./node_modules/.bin/mocha $(TESTS) \
 		--timeout 20s \
 		--require should \
@@ -25,6 +25,12 @@ test-cov:
 		--timeout 20s \
 		--reporter dot \
 		--bail
+
+test-style:
+	@node_modules/.bin/jscs \
+		lib/**/index.js \
+		lib/**/mapper.js \
+		--config=test/style.json
 
 clean:
 	rm -rf coverage
