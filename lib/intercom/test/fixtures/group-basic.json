@@ -9,7 +9,7 @@
       "email": "jd@example.com",
       "plan": "basic",
       "monthly_spend": "10",
-      "createdAt": "2014-03-11T09:46:09.000Z"
+      "created_at": "2014-03-11T09:46:09.000Z"
     }
   },
   "output": {
@@ -24,7 +24,7 @@
       "id": "0ba10cd6f6a6f654dbacbeee71cdf235",
       "plan": "basic",
       "monthly_spend": "10",
-      "createdAt": "2014-03-11T09:46:09.000Z"
+      "created_at": 1394531169
     }
   }
 }
