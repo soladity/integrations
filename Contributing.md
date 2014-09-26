@@ -21,10 +21,10 @@ See our [tracking API](https://segment.io/docs/tracking-api/) to check what each
 
   - __identify__ - does your integration support the identify method ?
   - __track__ - does your integration support the track method ?
-  - __page__ - does your integration support the track method ?
-  - __screen__ - does your integration support the track method ?
-  - __group__ - does your integration support the track method ?
-  - __alias__ - does your integration support the track method ?
+  - __page__ - does your integration support the page method ?
+  - __screen__ - does your integration support the screen method ?
+  - __group__ - does your integration support the group method ?
+  - __alias__ - does your integration support the alias method ?
   - __mapper__ - the mapper helps you map raw `msg` to something the integration API will accept.
   - __docs__ - docs link
   - __endpoint__ - api endpoint
