@@ -1,4 +1,14 @@
 
+1.2.9 / 2014-09-27
+==================
+
+  * heap: Change terminology: apiKey to appId
+  * intercom: adding additional fixtures
+  * docs: Fix for contributing page khaos info
+  * Intercom: fixed dates to be converted to unix timestamp in payload
+  * attribution: Added attribution integration
+  * add test-style
+
 1.2.8 / 2014-09-16
 ==================
 
