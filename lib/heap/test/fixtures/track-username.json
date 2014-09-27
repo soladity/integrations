@@ -1,6 +1,6 @@
 {
   "settings": {
-    "apiKey": "app-key"
+    "appId": "app-key"
   },
   "input": {
     "type": "track",
