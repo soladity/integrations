@@ -4,4 +4,4 @@ script: make test
 services:
   - redis-server
 node_js:
-  - '0.10'
+  - '0.8'
