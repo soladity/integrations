@@ -1,4 +1,14 @@
 
+1.2.10 / 2014-10-02
+===================
+
+  * loosening segmentio-integration dep
+  * hubspot: fix tests
+  * travis: npm ^ doesn't work on 0.8
+  * travis: node 0.10 -> node 0.8
+  * Woopra: fix to pass id param correctly
+  * Send session id to attribution
+
 1.2.9 / 2014-09-27
 ==================
 
