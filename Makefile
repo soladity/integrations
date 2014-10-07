@@ -13,8 +13,7 @@ test: lint test-style
 		--timeout 20s \
 		--require should \
 		--reporter $(REPORTER) \
-		--grep "$(GREP)" \
-		--bail
+		--grep "$(GREP)"
 
 test-cov:
 	@./node_modules/.bin/istanbul cover \
@@ -23,8 +22,7 @@ test-cov:
 		-- -u exports \
 		--require should \
 		--timeout 20s \
-		--reporter dot \
-		--bail
+		--reporter dot
 
 test-style:
 	@node_modules/.bin/jscs \
