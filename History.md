@@ -1,4 +1,13 @@
 
+1.2.12 / 2014-10-09
+==================
+
+ * mixpanel: update tests
+ * upgrade facade for page / screen fixes
+ * google-analytics: fix tests
+ * gainsight: fix tests
+ * amplitude: fix tests
+
 1.2.11 / 2014-10-08
 ===================
 
