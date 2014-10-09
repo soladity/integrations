@@ -21,22 +21,22 @@
       "network": { "carrier": "carrier" },
       "ip": "0.0.0.0",
       "location": {
-        "latitude": "latitude",
-        "longitude": "longitude"
+        "latitude": 1.0,
+        "longitude": 1.0
       }
     },
     "integrations": {
       "Amplitude": {
         "eventType": "amplitude-event-type",
-        "sessionId": "session-id",
-        "eventId": "event-id"
+        "sessionId": 1,
+        "eventId": 1
       }
     }
   },
   "output": {
     "amplitude_event_type": "amplitude-event-type",
-    "session_id": "session-id",
-    "event_id": "event-id",
+    "session_id": 1,
+    "event_id": 1,
     "app_version": "app-version",
     "client_os": "os-version",
     "client_sdk": "analytics-ios",
@@ -45,8 +45,8 @@
     "device_id": "device-id",
     "device_manufacturer": "device-manufacturer",
     "ip": "0.0.0.0",
-    "location_lat": "latitude",
-    "location_lng": "longitude",
+    "location_lat": 1.0,
+    "location_lng": 1.0,
     "device_model": "device-model",
     "user_id": "user-id",
     "revenue": 19.99,

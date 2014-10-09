@@ -6,7 +6,8 @@
     "properties": {
       "value": 1,
       "label": "some-label",
-      "category": "some-category"
+      "category": "some-category",
+      "nonInteraction": 1
     }
   },
   "output": {
@@ -17,6 +18,7 @@
     "el": "some-label",
     "ev": 1,
     "t": "event",
+    "ni": 1,
     "v": 1
   }
 }

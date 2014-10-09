@@ -18,6 +18,9 @@
   "output": {
     "event": "Viewed Docs Screen",
     "properties": {
+      "distinct_id": "user-id",
+      "id": "user-id",
+      "mp_name_tag": "user-id",
       "category": "Docs",
       "ip": "0.0.0.0",
       "property": true,
