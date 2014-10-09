@@ -12,6 +12,9 @@
   "output": {
     "event": "Loaded a Page",
     "properties": {
+      "distinct_id": "user-id",
+      "id": "user-id",
+      "mp_name_tag": "user-id",
       "mp_lib": "Segment.io",
       "time": 1388534400,
       "token": "89f86c4aa2ce5b74cb47eb5ec95ad1f9"
