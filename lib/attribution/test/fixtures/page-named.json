@@ -1,0 +1,24 @@
+{
+  "input": {
+    "type": "page",
+    "userId": "user-id",
+    "sessionId": "session-id",
+    "timestamp": "2014",
+    "name": "Attribution",
+    "category": "Docs",
+    "properties": {
+      "url": "https://segment.io/docs/integrations/attribution/"
+    }
+  },
+  "output": {
+    "user_id": "user-id",
+    "cookie_id": "session-id",
+    "event": "Viewed Attribution Page",
+    "timestamp": "2014-01-01T00:00:00.000Z",
+    "properties": {
+      "name": "Attribution",
+      "category": "Docs",
+      "url": "https://segment.io/docs/integrations/attribution/"
+    }
+  }
+}
