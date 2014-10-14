@@ -1,4 +1,11 @@
 
+1.2.13 / 2014-10-14
+===================
+
+ * Attribution: Added Screen Calls
+ * Attribution: Extended Support for page options
+ * Attribution: Track Page Views
+
 1.2.12 / 2014-10-09
 ==================
 
