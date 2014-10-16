@@ -15,7 +15,7 @@
   "output": {
     "apikey": "859e55635946cd5498f3e909b806e6ba-us2",
     "id": "2875b61629",
-    "double_optin": false,
+    "double_optin": true,
     "send_welcome": false,
     "update_existing": true,
     "replace_interests": false,
