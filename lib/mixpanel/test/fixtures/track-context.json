@@ -38,7 +38,7 @@
   "output": {
     "event": "my-event",
     "properties": {
-      "mp_lib": "Segment.ioanalytics-android",
+      "mp_lib": "Segment: analytics-android",
       "$lib_version": "2.0.0",
       "$os": "Android KitKat",
       "$os_version": "4.4.2",
