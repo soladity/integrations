@@ -1,4 +1,10 @@
 
+1.2.14 / 2014-10-16
+===================
+
+  * mixpanel: reject null fields, update
+  * Pick up context data for Mixpanel
+
 1.2.13 / 2014-10-14
 ===================
 
