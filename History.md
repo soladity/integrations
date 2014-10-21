@@ -1,4 +1,10 @@
 
+1.2.15 / 2014-10-21
+===================
+
+  * changing to doubleOptIn
+  * proxy context.screen to resolution
+
 1.2.14 / 2014-10-16
 ===================
 
