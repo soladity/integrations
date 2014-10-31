@@ -1,4 +1,11 @@
 
+1.2.17 / 2014-10-31
+==================
+
+ * intercom: fix tests
+ * hubspot: fix tests
+ * drip: accountId -> account
+
 1.2.16 / 2014-10-25
 ===================
 
