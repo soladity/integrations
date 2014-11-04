@@ -15,13 +15,21 @@
       },
       "library": {
         "name": "analytics-android"
-      }
+      },
+      "timezone": "America/New_York"
     }
   },
   "output": {
-    "email": "jd@example.com",
-    "key": "hokaisjzaacdxlpaixf4f4yaev",
     "user_id": "user-id",
-    "android_push_registration_id": "asdf"
+    "attributes": {
+      "ciq_user_email": "jd@example.com",
+      "ciq_user_android_push_registration_id": "asdf",
+      "ciq_user_timezone": "America/New_York",
+      "bool": true,
+      "created": "2014-01-01T00:00:00.000Z",
+      "playlists": 19,
+      "revenue": 19.19,
+      "id": "user-id"
+    }
   }
 }
