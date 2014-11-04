@@ -24,12 +24,7 @@
     "city": "San Francisco",
     "region": "California",
     "user_properties": {
-      "id": "user-id",
-      "address": {
-        "country": "USA",
-        "city": "San Francisco",
-        "region": "California"
-      }
+      "id": "user-id"
     },
     "event_properties": {
       "property": true

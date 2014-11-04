@@ -20,10 +20,7 @@
     "time": 1388534400000,
     "event_type": "Loaded a Page",
     "user_properties": {
-      "id": "user-id",
-      "address": {
-        "country": "some-country"
-      }
+      "id": "user-id"
     },
     "event_properties": {
       "property": true
