@@ -3,7 +3,7 @@
     "type": "identify",
     "userId": "user-id",
     "traits": {
-      "email": "harriet@segment.com",
+      "email": "anjdu9@segment.com",
       "firstName": "john",
       "lastName": "doe",
       "trait": true,
@@ -15,10 +15,11 @@
   "output": {
     "apikey": "859e55635946cd5498f3e909b806e6ba-us2",
     "id": "4b38f6546c",
+    "double_optin": false,
     "send_welcome": false,
     "update_existing": true,
     "replace_interests": false,
-    "email": { "email": "harriet@segment.com" },
+    "email": { "email": "anjdu9@segment.com" },
     "merge_vars": {
       "FNAME": "john",
       "LNAME": "doe",
