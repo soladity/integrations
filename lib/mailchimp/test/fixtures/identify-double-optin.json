@@ -1,4 +1,10 @@
 {
+  "settings": {
+    "datacenter": "us2",
+    "listId": "4b38f6546c",
+    "apiKey": "859e55635946cd5498f3e909b806e6ba-us2",
+    "doubleOptIn": true
+  },
   "input": {
     "type": "identify",
     "userId": "user-id",
@@ -15,6 +21,7 @@
   "output": {
     "apikey": "859e55635946cd5498f3e909b806e6ba-us2",
     "id": "4b38f6546c",
+    "double_optin": true,
     "send_welcome": false,
     "update_existing": true,
     "replace_interests": false,
