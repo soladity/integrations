@@ -1,4 +1,13 @@
 
+1.2.18 / 2014-11-05
+===================
+
+  * Fixing double optin issue
+  * remove address data from user_properties
+  * add amplitude support for native region and city fields
+  * outbound V2 phone -> phone_number
+  * respect explicitly passed campaignId first, then default to settings
+
 1.2.17 / 2014-10-31
 ==================
 
