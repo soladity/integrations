@@ -3,7 +3,7 @@
     "type": "identify",
     "userId": "user-id",
     "traits": {
-      "email": "testing+mailchimp@segment.com",
+      "email": "harriet@segment.com",
       "firstName": "john",
       "lastName": "doe",
       "trait": true,
@@ -18,7 +18,7 @@
     "send_welcome": false,
     "update_existing": true,
     "replace_interests": false,
-    "email": { "email": "testing+mailchimp@segment.com" },
+    "email": { "email": "harriet@segment.com" },
     "merge_vars": {
       "FNAME": "john",
       "LNAME": "doe",
