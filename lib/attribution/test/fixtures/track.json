@@ -11,6 +11,23 @@
       "time": "2014-10-12",
       "list": [1, 2, 3],
       "object": {}
+    },
+    "context": {
+      "device": {
+        "id": "device-id",
+        "model": "device-model",
+        "brand": "device-brand",
+        "manufacturer": "device-manufacturer"
+      },
+      "library": { "name": "analytics-ios" },
+      "app": { "version": "app-version" },
+      "os": { "version": "os-version" },
+      "network": { "carrier": "carrier" },
+      "ip": "0.0.0.0",
+      "location": {
+        "latitude": "latitude",
+        "longitude": "longitude"
+      }
     }
   },
   "output": {
@@ -24,6 +41,23 @@
       "time": "2014-10-12T00:00:00.000Z",
       "list": [1, 2, 3],
       "object": {}
+    },
+    "context": {
+      "device": {
+        "id": "device-id",
+        "model": "device-model",
+        "brand": "device-brand",
+        "manufacturer": "device-manufacturer"
+      },
+      "library": { "name": "analytics-ios" },
+      "app": { "version": "app-version" },
+      "os": { "version": "os-version" },
+      "network": { "carrier": "carrier" },
+      "ip": "0.0.0.0",
+      "location": {
+        "latitude": "latitude",
+        "longitude": "longitude"
+      }
     }
   }
 }
