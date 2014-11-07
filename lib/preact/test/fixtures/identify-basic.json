@@ -26,16 +26,13 @@
   "output": {
     "person": {
       "uid": "user-id",
+      "name": "John Doe",
       "email": "john@doe.com",
-      "uid": "user-id",
       "twitter_id": "johnnyd",
       "facebook_id": "123456",
       "stripe_id": "jd1",
       "properties": {
         "username": "JohnDoe123",
-        "name": "John Doe",
-        "email": "john@doe.com",
-        "id": "user-id",
         "twitterId": "johnnyd",
         "facebookId": "123456",
         "stripeId": "jd1"
