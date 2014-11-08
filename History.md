@@ -1,4 +1,11 @@
 
+1.2.20 / 2014-11-08
+===================
+
+  * Preact: Updating to use fixtures
+  * CommandIQ: added mapper, upgraded to new and simpler API
+  * Attribution: Send Context
+
 1.2.19 / 2014-11-06
 ===================
 
