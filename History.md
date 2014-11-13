@@ -1,4 +1,25 @@
 
+1.2.20 / 2014-11-08
+===================
+
+  * Preact: Updating to use fixtures
+  * CommandIQ: added mapper, upgraded to new and simpler API
+  * Attribution: Send Context
+
+1.2.19 / 2014-11-06
+===================
+
+  * Mailchimp: Fixing double optin issue
+
+1.2.18 / 2014-11-05
+===================
+
+  * Fixing double optin issue
+  * remove address data from user_properties
+  * add amplitude support for native region and city fields
+  * outbound V2 phone -> phone_number
+  * respect explicitly passed campaignId first, then default to settings
+
 1.2.17 / 2014-10-31
 ==================
 
