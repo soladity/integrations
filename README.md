@@ -36,6 +36,6 @@
 - [woopra](https://github.com/segmentio/integration-woopra)
 
 
-### Adding Integrations
+## Adding Integrations
 
-Interested in integrating your service with us? Please check out our [integrations process](https://segment.com/help/partners/how-do-get-my-service-integrated/) for more details.
+Interested in integrating your service with us? Check out our [integrations process](https://segment.com/help/partners/how-do-get-my-service-integrated/) for more details.
