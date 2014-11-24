@@ -1,6 +1,6 @@
 # THIS REPOSITORY IS NOW DEPRECATED
 
-  > The integrations the used to live here have moved to individual repos.
+  > The integrations that used to live here have moved to individual repos.
 
 - [amplitude](https://github.com/segmentio/integration-amplitude)
 - [attribution](https://github.com/segmentio/integration-attribution)
