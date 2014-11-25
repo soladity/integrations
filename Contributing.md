@@ -8,7 +8,7 @@ We're huge fans of open-source, and absolutely we love getting good contribution
   To start, you need a couple of tools that will help you integrate as fast as possible:
 
   - [Khaos](https://github.com/segmentio/khaos) (`npm i -g khaos`)
-  - [kahos-segmentio-integration](https://github.com/segmentio/khaos-segmentio-integration) (`khaos install segmentio/khaos-segmentio-integration integration`)
+  - [khaos-segmentio-integration](https://github.com/segmentio/khaos-segmentio-integration) (`khaos install segmentio/khaos-segmentio-integration integration`)
 
 Once you have those tools installed, `cd` into your fork and run:
 
