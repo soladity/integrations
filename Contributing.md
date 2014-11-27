@@ -3,6 +3,14 @@
 
 We're huge fans of open-source, and absolutely we love getting good contributions to **segmentio/integrations**! These docs will tell you everything you need to know about how to add your own integration to the library with a pull request, so we can merge it in for everyone else to use.
 
+Integrations will be released to thousands of Segment customers on the Segment dashboard and we have hundreds of integrations queued so it's important that you do the following before writing a pull request:
+1. Apply to be a Segment partner: https://segment.com/docs/partners/join-the-platform/
+2. Complete a Technical Survey: https://segment.com/partners/techqs
+3. Hear from the Segment team that they're ready to review and support your pull request.
+
+For questions about these docs, pull requests and fixes please contact integrations@segment.com
+For other business/partnerships inquiries contact please partners@segment.com
+
 ## Getting Setup
 
   To start, you need a couple of tools that will help you integrate as fast as possible:
