@@ -8,6 +8,7 @@ Integrations will be released to thousands of Segment customers on the Segment d
   2. Complete a Technical Survey: https://segment.com/partners/techqs
   3. Hear from the Segment team that they're ready to review and support your pull request. 
 
+
   - For questions about these docs, pull requests and fixes please contact integrations@segment.com
   - For other business/partnerships inquiries please contact partners@segment.com
 
