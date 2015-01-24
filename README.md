@@ -1,6 +1,10 @@
-# THIS REPOSITORY IS NOW DEPRECATED
 
-  > The integrations that used to live here have moved to individual repos.
+## Adding Integrations
+
+Interested in integrating your service with us? Check out our [Partners page](https://segment.com/partners/) for more details.
+
+## THIS REPOSITORY IS NOW DEPRECATED
+The integrations that used to live here have moved to individual repos.
 
 - [amplitude](https://github.com/segmentio/integration-amplitude)
 - [attribution](https://github.com/segmentio/integration-attribution)
@@ -34,8 +38,3 @@
 - [vero](https://github.com/segmentio/integration-vero)
 - [webhooks](https://github.com/segmentio/integration-webhooks)
 - [woopra](https://github.com/segmentio/integration-woopra)
-
-
-## Adding Integrations
-
-Interested in integrating your service with us? Check out our [integrations process](https://segment.com/help/partners/how-do-get-my-service-integrated/) for more details.
