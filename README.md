@@ -1,5 +1,5 @@
 
-## Adding Integrations
+## Integrating with Segment
 
 Interested in integrating your service with us? Check out our [Partners page](https://segment.com/partners/) for more details.
 
