@@ -1,7 +1,7 @@
 
 ## Integrating with Segment
 
-Interested in integrating your service with us? Check out our [Partners page](https://segment.com/partners/) for more details.
+Interested in integrating your service with us? Check out our [Partners page](https://segment.com/partners/) for more details. [Contribution documentation](Contributing.md) is available in this repository.
 
 ## THIS REPOSITORY IS NOW DEPRECATED
 The integrations that used to live here have moved to individual repos.
