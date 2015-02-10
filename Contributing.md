@@ -1,9 +1,11 @@
 # Contributing
 
-We're huge fans of open-source, and we absolutely love getting good contributions! Integrations are available to thousands of Segment customers and we have hundreds of integrations in already in our queue, so it's important that you do the following _before writing a pull request_.
+We're huge fans of open-source, and we absolutely love getting good contributions! Integrations are available to thousands of Segment customers and we have hundreds of integrations in already in our queue, so it's important that you do the following _before starting any work on your integration_.
 
   1. Apply to be a Segment partner: https://segment.com/partners/
   2. Hear from the Segment team with the details for submitting your pull request.
+
+Once your request is approved, we'll create a new repo your integration, that you can submit a pull request to.
 
 ## Getting Setup
 
